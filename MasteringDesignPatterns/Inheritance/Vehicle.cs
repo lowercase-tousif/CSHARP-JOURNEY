@@ -7,8 +7,8 @@ namespace Inheritance
 {
     public class Vehicle
     {
-        public string Brand { get; set; }
-        public string Model { get; set; }
+        public string Brand { get; set; } = string.Empty;
+        public string Model { get; set; } = string.Empty;
         public int Year { get; set; }
 
         public void Start()
