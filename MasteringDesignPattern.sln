@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MasteringDesignPatterns", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "MasteringDesignPatterns\Encapsulation\Encapsulation.csproj", "{B3224500-5B82-4E9A-92A1-3D1444A1349A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "MasteringDesignPatterns\Abstraction\Abstraction.csproj", "{259F6151-AB50-4547-AE2C-6B39CDCB616F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,8 +28,13 @@ Global
 		{B3224500-5B82-4E9A-92A1-3D1444A1349A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3224500-5B82-4E9A-92A1-3D1444A1349A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3224500-5B82-4E9A-92A1-3D1444A1349A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259F6151-AB50-4547-AE2C-6B39CDCB616F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259F6151-AB50-4547-AE2C-6B39CDCB616F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259F6151-AB50-4547-AE2C-6B39CDCB616F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259F6151-AB50-4547-AE2C-6B39CDCB616F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B3224500-5B82-4E9A-92A1-3D1444A1349A} = {97B4C7B6-BFE7-47FF-894D-679FB4621C4A}
+		{259F6151-AB50-4547-AE2C-6B39CDCB616F} = {97B4C7B6-BFE7-47FF-894D-679FB4621C4A}
 	EndGlobalSection
 EndGlobal
